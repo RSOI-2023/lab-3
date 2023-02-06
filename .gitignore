@@ -41,3 +41,4 @@ replay_pid*
 
 #H2
 data.mv.db
+data.trace.db
